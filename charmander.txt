@@ -1,1 +1,1 @@
-flamethrower 2.0
+flamethrower 3.0
